@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             //code was edit in git hub again
+            // code was added in VS
         }
     }
 }
